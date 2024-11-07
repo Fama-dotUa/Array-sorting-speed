@@ -1,0 +1,7 @@
+D:\ДНУ\3 семестр\Карпенко лаби\Array-sorting-speed\Array-sorting-speed\Array-sorting-speed\bin\Debug\Array-sorting-speed.exe.config
+D:\ДНУ\3 семестр\Карпенко лаби\Array-sorting-speed\Array-sorting-speed\Array-sorting-speed\bin\Debug\Array-sorting-speed.exe
+D:\ДНУ\3 семестр\Карпенко лаби\Array-sorting-speed\Array-sorting-speed\Array-sorting-speed\bin\Debug\Array-sorting-speed.pdb
+D:\ДНУ\3 семестр\Карпенко лаби\Array-sorting-speed\Array-sorting-speed\Array-sorting-speed\obj\Debug\Array-sorting-speed.csproj.AssemblyReference.cache
+D:\ДНУ\3 семестр\Карпенко лаби\Array-sorting-speed\Array-sorting-speed\Array-sorting-speed\obj\Debug\Array-sorting-speed.csproj.CoreCompileInputs.cache
+D:\ДНУ\3 семестр\Карпенко лаби\Array-sorting-speed\Array-sorting-speed\Array-sorting-speed\obj\Debug\Array-sorting-speed.exe
+D:\ДНУ\3 семестр\Карпенко лаби\Array-sorting-speed\Array-sorting-speed\Array-sorting-speed\obj\Debug\Array-sorting-speed.pdb

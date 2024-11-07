@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0414\u041D\u0423\\3 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u0430\u0440\u043F\u0435\u043D\u043A\u043E \u043B\u0430\u0431\u0438\\Array-sorting-speed\\Array-sorting-speed\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F0D5D759-EA30-4D12-A1A0-9CEA8F9B99A0}|Array-sorting-speed\\Array-sorting-speed.csproj|d:\\\u0434\u043D\u0443\\3 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043A\u0430\u0440\u043F\u0435\u043D\u043A\u043E \u043B\u0430\u0431\u0438\\array-sorting-speed\\array-sorting-speed\\array-sorting-speed\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0D5D759-EA30-4D12-A1A0-9CEA8F9B99A0}|Array-sorting-speed\\Array-sorting-speed.csproj|solutionrelative:array-sorting-speed\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u0414\u041D\u0423\\3 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u0430\u0440\u043F\u0435\u043D\u043A\u043E \u043B\u0430\u0431\u0438\\Array-sorting-speed\\Array-sorting-speed\\Array-sorting-speed\\Program.cs",
+              "RelativeDocumentMoniker": "Array-sorting-speed\\Program.cs",
+              "ToolTip": "D:\\\u0414\u041D\u0423\\3 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u0430\u0440\u043F\u0435\u043D\u043A\u043E \u043B\u0430\u0431\u0438\\Array-sorting-speed\\Array-sorting-speed\\Array-sorting-speed\\Program.cs",
+              "RelativeToolTip": "Array-sorting-speed\\Program.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAQwAsAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T17:02:56.278Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
